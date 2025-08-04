@@ -1,0 +1,15 @@
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\bin\Debug\net9.0\.net_Curso.exe
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\bin\Debug\net9.0\.net_Curso.deps.json
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\bin\Debug\net9.0\.net_Curso.runtimeconfig.json
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\bin\Debug\net9.0\.net_Curso.dll
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\bin\Debug\net9.0\.net_Curso.pdb
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\obj\Debug\net9.0\.net_Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\obj\Debug\net9.0\.net_Curso.AssemblyInfoInputs.cache
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\obj\Debug\net9.0\.net_Curso.AssemblyInfo.cs
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\obj\Debug\net9.0\.net_Curso.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\obj\Debug\net9.0\.net_Curso.sourcelink.json
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\obj\Debug\net9.0\.net_Curso.dll
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\obj\Debug\net9.0\refint\.net_Curso.dll
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\obj\Debug\net9.0\.net_Curso.pdb
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\obj\Debug\net9.0\.net_Curso.genruntimeconfig.cache
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\obj\Debug\net9.0\ref\.net_Curso.dll
