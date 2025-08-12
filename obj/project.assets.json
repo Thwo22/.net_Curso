@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thiago\\OneDrive\\Documentos\\Estudos\\.net_Curso\\.net_Curso.csproj",
+      "projectUniqueName": "c:\\Users\\Thiago\\OneDrive\\Documentos\\Estudos\\.net_Curso\\.net_Curso.csproj",
       "projectName": ".net_Curso",
-      "projectPath": "C:\\Users\\Thiago\\OneDrive\\Documentos\\Estudos\\.net_Curso\\.net_Curso.csproj",
+      "projectPath": "c:\\Users\\Thiago\\OneDrive\\Documentos\\Estudos\\.net_Curso\\.net_Curso.csproj",
       "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thiago\\OneDrive\\Documentos\\Estudos\\.net_Curso\\obj\\",
+      "outputPath": "c:\\Users\\Thiago\\OneDrive\\Documentos\\Estudos\\.net_Curso\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
