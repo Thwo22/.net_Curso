@@ -1,5 +1,112 @@
 ﻿using System.Diagnostics;
-using models;
+using ExemploFundamentos.Commom.models;
+
+List<string> listaString = new List<string>();
+
+listaString.Add("SP");
+listaString.Add("MG");
+listaString.Add("BH");
+
+Console.WriteLine("Percorrendo a lista com FOR");
+for (int contador = 0; contador < listaString.Count; contador++)
+{
+    Console.WriteLine($"Posição Nº{contador} - {listaString[contador]}");
+}
+
+Console.WriteLine("Percorrendo a lista com FOREACH");
+int contadorForeach = 0;
+foreach (string item in listaString)
+{
+    Console.WriteLine($"Posição Nº {contadorForeach} - {item}");
+    contadorForeach++;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int[] arrayInteiros = new int[4];
+
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 22;
+// arrayInteiros[2] = 33;
+// arrayInteiros[3] = 44;
+
+// int[] arraysInteirosDobrados = new int[arrayInteiros.Length * 2];
+// Array.Copy(arrayInteiros, arraysInteirosDobrados, arrayInteiros.Length);
+
+
+
+// Console.WriteLine("Percorrendo array com for");
+// for (int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//     Console.WriteLine($"Posição Nº {contador} é: {arrayInteiros[contador]}");
+// }
+// Console.WriteLine(arraysInteirosDobrados);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Console.WriteLine("Percorrendo array com foreach");
+// foreach (int valores in arrayInteiros)
+// {
+//     Console.WriteLine(valores);
+// }
+
+
+
+
+
+
+
+
+// Pessoa pessoa1 = new Pessoa();
+// pessoa1.Nome = "Thiago";
+// pessoa1.Idade = 18;
+// pessoa1.Apresentar();
 
 // string opcao;
 // bool exibir = true;

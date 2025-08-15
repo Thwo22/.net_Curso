@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = ".net_Curso", ".net_Curso.csproj", "{749D3046-E281-441C-98FA-C82A698150DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = ".net_Curso", "ExemploFundamentos/.net_Curso.csproj", "{749D3046-E281-441C-98FA-C82A698150DA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploFundamentos.Commom", "ExemploFundamentos.Commom\ExemploFundamentos.Commom.csproj", "{1782400A-5FF3-4043-A112-298F4354D58F}"
 EndProject

@@ -1,0 +1,12 @@
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\ExemploFundamentos.Commom\bin\Debug\net9.0\ExemploFundamentos.Commom.deps.json
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\ExemploFundamentos.Commom\bin\Debug\net9.0\ExemploFundamentos.Commom.dll
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\ExemploFundamentos.Commom\bin\Debug\net9.0\ExemploFundamentos.Commom.pdb
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.AssemblyInfoInputs.cache
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.AssemblyInfo.cs
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.sourcelink.json
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.dll
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\ExemploFundamentos.Commom\obj\Debug\net9.0\refint\ExemploFundamentos.Commom.dll
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\ExemploFundamentos.Commom\obj\Debug\net9.0\ExemploFundamentos.Commom.pdb
+C:\Users\Thiago\OneDrive\Documentos\Estudos\.net_Curso\ExemploFundamentos.Commom\obj\Debug\net9.0\ref\ExemploFundamentos.Commom.dll
